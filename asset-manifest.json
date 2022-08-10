@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/new-food-website/static/css/main.afdc728d.css",
+    "main.js": "/new-food-website/static/js/main.fbc497b8.js",
+    "static/media/banner.jpg": "/new-food-website/static/media/banner.238b6d1857c3b3b977ee.jpg",
+    "static/media/meal3.jpg": "/new-food-website/static/media/meal3.1357c7bebe7e39eb79cb.jpg",
+    "static/media/meal5.jpg": "/new-food-website/static/media/meal5.b04c8d0231616b8186b9.jpg",
+    "static/media/instagram.png": "/new-food-website/static/media/instagram.75e0546a6b5abe4c0506.png",
+    "static/media/facebook.png": "/new-food-website/static/media/facebook.01a470d813915c298403.png",
+    "static/media/twitter.png": "/new-food-website/static/media/twitter.894988327f8d68209e91.png",
+    "static/media/close.png": "/new-food-website/static/media/close.e7d934973db20551ef5f.png",
+    "static/media/logo.svg": "/new-food-website/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/new-food-website/index.html",
+    "main.afdc728d.css.map": "/new-food-website/static/css/main.afdc728d.css.map",
+    "main.fbc497b8.js.map": "/new-food-website/static/js/main.fbc497b8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.afdc728d.css",
+    "static/js/main.fbc497b8.js"
+  ]
+}
